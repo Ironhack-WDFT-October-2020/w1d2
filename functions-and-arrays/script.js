@@ -95,6 +95,7 @@ countries.splice(2, 1, 'germany')
 //     console.log(countries[i]);
 // }
 
+// you can return from a for loop (but not from a forEach loop)
 function findUK(countries) {
     for (let i = 0; i < countries.length; i++) {
         // console.log(country);
