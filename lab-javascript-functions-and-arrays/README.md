@@ -188,6 +188,8 @@ const words = [
 ];
 ```
 
+
+
 ### Iteration #6: Find elements
 
 Let's create a simple array search.
